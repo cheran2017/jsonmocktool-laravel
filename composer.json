@@ -1,0 +1,14 @@
+{
+    "name": "lib/jsonmock",
+    "description": "Json Mock File management",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cheran",
+            "email": "cheran.sengodan@eluminaelearning.com.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
